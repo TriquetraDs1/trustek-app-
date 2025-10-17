@@ -273,7 +273,7 @@ const Dashboard = () => {
           title: "Review Analyzer",
          description: "Identify fake reviews and suspicious ratings",
           color: "text-secondary",
-        href: "/review-analyzer", // ✅ Must match the route above
+        href: "/ReviewAnalyzer", // ✅ Must match the route above
       }       
    
     ];
@@ -358,3 +358,4 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
